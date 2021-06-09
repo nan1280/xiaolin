@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 success to update to my github's git,wuhu!!!
+=======
+11
+我的更新去哪了？？？
+>>>>>>> 968f37684a769cbe914b5b22b356d5b8210b26b7
